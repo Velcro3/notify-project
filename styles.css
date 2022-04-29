@@ -1,0 +1,12 @@
+body {
+    font-family: Calibri, 'DejaVu Sans', sans-serif;
+}
+h1 {
+    color: rgba(41, 182, 217, 0.548)
+}
+h2 {
+    color: rgba(41, 182, 217, 0.644)
+}
+p {
+    color: aquamarine;
+}
